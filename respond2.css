@@ -1,0 +1,18 @@
+/*home*/
+#home{
+    height: 750px;
+}
+.headings{
+    font-size:1.8rems;
+    
+      
+
+}
+/*About*/
+#pic img{
+    width:400px;
+    height:180px;
+}
+#intro h2{
+    font-size:1.5rems;
+}
